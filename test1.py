@@ -6,3 +6,5 @@ url = 'http://www.google.com/'
 chrome_path = 'open -a /Applications/Google\ Chrome.app %s'
 
 webbrowser.get(chrome_path).open(url)
+
+data !
